@@ -33,3 +33,4 @@ C:\Users\adria\Desktop\ControlesValidaciones\ControlesValidaciones\obj\Debug\Con
 C:\Users\adria\Desktop\ControlesValidaciones\ControlesValidaciones\obj\Debug\ControlesValidaciones.csproj.CopyComplete
 C:\Users\adria\Desktop\ControlesValidaciones\ControlesValidaciones\obj\Debug\ControlesValidaciones.dll
 C:\Users\adria\Desktop\ControlesValidaciones\ControlesValidaciones\obj\Debug\ControlesValidaciones.pdb
+C:\Users\adria\Desktop\ControlesValidaciones\ControlesValidaciones\obj\Debug\ControlesValidaciones.csprojAssemblyReference.cache
