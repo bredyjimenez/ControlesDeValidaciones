@@ -7,11 +7,17 @@ using System.Web.UI.WebControls;
 
 namespace ControlesValidaciones
 {
-    public partial class Default : System.Web.UI.Page
+    public partial class Default1 : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
 
+        }
+
+        protected void btnConfirmar_Click(object sender, EventArgs e)
+        {
+            if (IsValid)
+                Response.Redirect("Default2.aspx");
         }
     }
 }
