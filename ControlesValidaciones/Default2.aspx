@@ -10,11 +10,8 @@
     <form id="form1" runat="server">
         <div>
             <asp:Label ID="Label1" runat="server" Text="Ingrese edad del postulante (18 y 35): "></asp:Label>
-            <asp:TextBox ID="txtEdad" runat="server"></asp:TextBox>
-            <br />
-            <asp:RangeValidator ID="RangeValidator1" runat="server" ErrorMessage="RangeValidator" ControlToValidate="txtEdad" MaximumValue="35" MinimumValue="18" Type="Integer">El postulante debe tener una edad entre 18 y 35 años</asp:RangeValidator>
-            <br />
-            <br />
+            <asp:TextBox ID="txtEdad" runat="server"></asp:TextBox><br />
+            <asp:RangeValidator ID="RangeValidator1" runat="server" ErrorMessage="RangeValidator" ControlToValidate="txtEdad" MaximumValue="35" MinimumValue="18" Type="Integer">El postulante debe tener una edad entre 18 y 35 años</asp:RangeValidator><br /><br />
             <asp:Button ID="btnConfirmar" runat="server" Text="Confirmar" OnClick="btnConfirmar_Click" />
         </div>
     </form>
