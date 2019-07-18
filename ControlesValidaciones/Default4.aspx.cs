@@ -13,5 +13,24 @@ namespace ControlesValidaciones
         {
 
         }
+
+        // Evento del CustomValidator al hacer doble click sobre el
+        protected void CustomValidator1_ServerValidate(object source, ServerValidateEventArgs args)
+        {
+            int valor;
+            valor = int.Parse(txtMultiplo5.Text);
+            if (valor % 5 == 0)
+                args.IsValid = true;
+            else
+                args.IsValid = false;
+        }
+
+        protected void btnConfirmar_Click(object sender, EventArgs e)
+        {
+            if (IsValid)
+            {
+                Response.Redirect("Default5.aspx");
+            }
+        }
     }
 }

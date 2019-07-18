@@ -29,8 +29,8 @@ C:\Users\adria\Desktop\ControlesValidaciones\ControlesValidaciones\bin\roslyn\VB
 C:\Users\adria\Desktop\ControlesValidaciones\ControlesValidaciones\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\adria\Desktop\ControlesValidaciones\ControlesValidaciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\adria\Desktop\ControlesValidaciones\ControlesValidaciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\adria\Desktop\ControlesValidaciones\ControlesValidaciones\obj\Debug\ControlesValidaciones.csprojAssemblyReference.cache
 C:\Users\adria\Desktop\ControlesValidaciones\ControlesValidaciones\obj\Debug\ControlesValidaciones.csproj.CoreCompileInputs.cache
 C:\Users\adria\Desktop\ControlesValidaciones\ControlesValidaciones\obj\Debug\ControlesValidaciones.csproj.CopyComplete
 C:\Users\adria\Desktop\ControlesValidaciones\ControlesValidaciones\obj\Debug\ControlesValidaciones.dll
 C:\Users\adria\Desktop\ControlesValidaciones\ControlesValidaciones\obj\Debug\ControlesValidaciones.pdb
-C:\Users\adria\Desktop\ControlesValidaciones\ControlesValidaciones\obj\Debug\ControlesValidaciones.csprojAssemblyReference.cache
