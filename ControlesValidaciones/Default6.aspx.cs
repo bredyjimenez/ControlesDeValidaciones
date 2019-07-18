@@ -13,5 +13,13 @@ namespace ControlesValidaciones
         {
 
         }
+
+        protected void btnConfirmar_Click(object sender, EventArgs e)
+        {
+            if (IsValid)
+            {
+                Response.Redirect("Default.aspx");
+            }
+        }
     }
 }
